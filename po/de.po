@@ -100,7 +100,7 @@ msgstr "Von Warteschlange entfernen"
 #. translators: This is part of a larger text that says "Add to <playlist name>". This text should be as short as possible.
 #: src/app/components/labels.rs:24
 msgid "Add to {}"
-msgstr ""
+msgstr "Hinzufügen zu {}"
 
 #. translators: This notification is the default message for unhandled errors. Logs refer to console output.
 #: src/app/components/mod.rs:100
